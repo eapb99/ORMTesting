@@ -1,7 +1,8 @@
 # ORMTesting with Jest & SuperTest
 
 ## Creacion de la base de datos.
-Para este ejercicio haremos uso del script Universidad.sql
+Para este ejercicio haremos uso del script **Universidad.sql**.  
+
 Nos dirijiremos MySQL Workbench y lo ejecutaremos, esto nos creara una nueva base de datos llamada universidad.
 
 ## Configuracion de la base de datos.
