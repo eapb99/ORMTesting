@@ -51,6 +51,7 @@ En esta ocasión, será necesario reconstruir los modelos desde un conjunto de t
 ## Configurando la base de datos para testing
 
 Para efectos practicos usaremos la misma configuracion que colocamos en el config.json para el ambiente de desarrollo.
+
 ![image](https://user-images.githubusercontent.com/62962507/183260798-2cece8e0-6b09-443a-8b28-4e27d4b3e07f.png)
 
 
